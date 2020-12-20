@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Papyrus";
+  color: crimson;
+  font-size: 200%;
+  font-style: bold;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Papyrus";
+  color: linen;
+  font-size: 120%
+}
+
+h3 {
+  text-align: center;
+  font-family: "helvetica";
+  color: linen;
+}
+
+p {
+  text-align: center;
+  color: linen;
+  font-family: "helvetica";
+  font-size: 100%;
+  font-weight: ;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
